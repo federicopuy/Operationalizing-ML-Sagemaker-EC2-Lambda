@@ -1,4 +1,4 @@
-# OperationalizingMLSagemaker
+# Operationalizing ML using AWS Sagemaker, EC2 and Lambda
 This project contains a set of files and examples to:
 
 1) Train a model using the AWS Sagemaker tool
