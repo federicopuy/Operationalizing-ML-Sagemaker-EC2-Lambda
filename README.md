@@ -3,7 +3,7 @@ This project contains a set of files and examples to:
 
 1) Train a model using the AWS Sagemaker tool
 2) Deploy the model to an AWS Endpoint
-3) Train the same model but using AWS EC2 only\
+3) Train the same model but using AWS EC2 only
 4) Trigger inference using a Lambda function
 5) Configuring Concurrency and Auto scaling for the Lambda and deployed endpoint.
 
